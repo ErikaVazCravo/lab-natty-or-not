@@ -17,10 +17,12 @@ Para criar o vídeo "Thrones of Imagination: Desvendando o Poder Criativo das IA
 
 
 ## 🚀 Resultados
-[Clique aqui para ver o vídeo!]()
+[Clique aqui para ver o vídeo!](video)
 
 
 ## 💭 Reflexão (Opcional)
 O trabalho de criar o vídeo "Thrones of Imagination: Desvendando o Poder Criativo das IAs" foi uma experiência fascinante e reveladora sobre o impacto das inteligências artificiais na criação de conteúdo. Ao utilizar ferramentas como ChatGPT, ElevenLabs e D-ID, pude explorar não apenas as capacidades avançadas das IAs na geração de texto, imagem e música, mas também refletir sobre os desafios éticos envolvidos, como o uso de deepfakes. A integração dessas tecnologias permitiu não apenas contar uma história convincente inspirada em Game of Thrones, mas também destacar como as IAs estão moldando o futuro da criatividade. Este trabalho sublinhou a importância de uma abordagem ética e responsável no uso dessas tecnologias, ao mesmo tempo em que abriu novas possibilidades para a inovação artística e narrativa no cenário atual e futuro.
 
-
+<div align="center">
+<img src="img/octocat-micro.png" width="300" height="300"/>
+</div>
