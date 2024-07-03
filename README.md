@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Thrones of Imagination: Desvendando o Poder Criativo das IAs
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O vídeo "Thrones of Imagination: Desvendando o Poder Criativo das IAs" mergulha no fascinante cruzamento entre inteligência artificial e o universo épico de Game of Thrones. Explore como as IAs estão redefinindo a criação artística através de modelos avançados de geração de texto, imagem e música. Descubra também as aplicações inovadoras da IA na produção de conteúdo criativo, desde cenários cinematográficos até composições musicais que ecoam as crônicas de Westeros. Contudo, o vídeo também aborda os desafios éticos, como os deepfakes, e a importância de usar estas tecnologias com responsabilidade. Prepare-se para uma jornada onde a tecnologia encontra a fantasia, desvendando novos horizontes na narrativa e na arte. 
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- IA Generativa [ChatGPT](https://chat.openai.com/) para roteirização e revisão;
+- IA Generattiva [ElevenLabs](https://elevenlabs.io/) para sintetização de voz; 
+- IA Generativa [D-ID](https://studio.d-id.com/) para geração de avatar virtual e vídeo.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar o vídeo "Thrones of Imagination: Desvendando o Poder Criativo das IAs", utilizei o ChatGPT para roteirização e revisão, refinando o conteúdo sobre modelos de IA generativa, aplicações criativas e ética. A voz narrativa foi sintetizada com o ElevenLabs para garantir uma narração épica e envolvente, enquanto o D-ID foi essencial na criação de um avatar virtual para representar o narrador no vídeo. Esse processo colaborativo resultou em uma apresentação visualmente rica e informativa, explorando como as IAs estão redefinindo a arte, música e narrativa inspiradas em Game of Thrones, proporcionando uma experiência educativa e cativante para o público.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Clique aqui para ver o vídeo!]()
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O trabalho de criar o vídeo "Thrones of Imagination: Desvendando o Poder Criativo das IAs" foi uma experiência fascinante e reveladora sobre o impacto das inteligências artificiais na criação de conteúdo. Ao utilizar ferramentas como ChatGPT, ElevenLabs e D-ID, pude explorar não apenas as capacidades avançadas das IAs na geração de texto, imagem e música, mas também refletir sobre os desafios éticos envolvidos, como o uso de deepfakes. A integração dessas tecnologias permitiu não apenas contar uma história convincente inspirada em Game of Thrones, mas também destacar como as IAs estão moldando o futuro da criatividade. Este trabalho sublinhou a importância de uma abordagem ética e responsável no uso dessas tecnologias, ao mesmo tempo em que abriu novas possibilidades para a inovação artística e narrativa no cenário atual e futuro.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
